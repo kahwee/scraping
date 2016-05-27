@@ -5,6 +5,8 @@ From this [DigitalOcean tutorial](https://www.digitalocean.com/community/tutoria
 ## Installing
 
 ```sh
+git clone git@github.com:kahwee/scraping.git
+cd scrapping
 npm i
 ```
 
